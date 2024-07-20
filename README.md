@@ -1,2 +1,1 @@
-# curso-henry
-repositorio de prueva para henry
+este proyecto es para saber como clonar un repositorio a mi unidad}
